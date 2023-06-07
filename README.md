@@ -14,7 +14,7 @@ Open Xcode and select New Project in the File > New > Project… menu to create 
 
 Choose the App template for your project.
 
-When prompted, choose your app name (for example, SurvicateSPDemo) and use the default options, next select the location to save the project and finally click on the Create button to finish project creation.
+When prompted, choose your app name (for example, Survabox) and use the default options, next select the location to save the project and finally click on the Create button to finish project creation.
 
 Once the project is created, open your application in Xcode and select your project’s Package Dependencies tab
 
