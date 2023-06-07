@@ -23,3 +23,7 @@ Copy the Survicate SDK Swift package repository URL https://github.com/surveybox
 Under Dependency Rule, select version according to your preferences
 
 # Requirements
+
+The SDK supports iOS 10+. Survicate Mobile SDK is distributed in a binary version and developed using Swift 5.3. The minimum required version of Xcode is 12.0, however we recommend using the SDK with Xcode 13.1 and above.
+
+Using Survicate Mobile SDK requires an account at Survicate. Sign up for free and find your workspace key in the Access Keys tab.
