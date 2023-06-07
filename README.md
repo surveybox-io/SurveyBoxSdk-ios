@@ -22,4 +22,4 @@ Copy the Survicate SDK Swift package repository URL https://github.com/surveybox
 
 Under Dependency Rule, select version according to your preferences
 
-Requirements
+**Requirements**
