@@ -26,4 +26,8 @@ Under Dependency Rule, select version according to your preferences
 
 The SDK supports iOS 13+. Survicate Mobile SDK is distributed in a binary version and developed using Swift 5.3. The minimum required version of Xcode is 13.0, however we recommend using the SDK with Xcode 13.1 and above.
 
-Using Survaybox Mobile SDK requires an account at [Survaybox](https://www.google.com). Sign up for free and find your workspace key in the Access Keys tab.
+Using Survaybox Mobile SDK requires an account at [Survaybox](https://surveybox.io/). Sign up for free and find your workspace key in the Access Keys tab.
+
+# Installation
+
+
