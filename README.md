@@ -66,6 +66,19 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
     return true
 }
 
+## Using Framework's WellcomeVC Class
+
+To use the `WellcomeVC` class from our framework in your `ViewController`, follow these steps:
+
+1. Import the framework at the top of your `ViewController` or where you want to show the Survay file:
+
+```swift
+import SurvayNew
+
+      let controller = WellcomeVC.createNew(with: "")
+        controller.modalPresentationStyle = .fullScreen
+        controller.modalPresentationStyle = .overCurrentContext
+        self.present(controller, animated: true, completion: nil)
 
 
 
