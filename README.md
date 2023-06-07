@@ -41,6 +41,30 @@ Using Survaybox Mobile SDK requires an account at [Survaybox](https://surveybox.
 
 ![Screenshot 2023-06-07 at 3 01 43 PM](https://github.com/surveybox-io/SurveyBoxSdk-ios/assets/79449782/fd184f5b-25ae-4beb-a32b-9a58e1695f55)
 
+## Configuring Framework API Key
+
+To use the framework's features, you need to configure the API key. Follow these steps:
+
+1. Open the `AppDelegate.swift` file.
+2. Locate the `didFinishLaunchingWithOptions` method.
+3. Find the line that configures the API key.
+4. Replace the placeholder `YOUR_API_KEY` with your actual API key.
+5. Save the changes to the `AppDelegate.swift` file.
+6. Build and run the application.
+
+Example code in `AppDelegate.swift`:
+
+```swift
+func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+    // Other code...
+
+    // Configure your API key
+   Surveybox.configure(apiKey: "YOUR_API_KEY", customer_email: "Email")
+
+    // Other code...
+
+    return true
+}
 
 
 
