@@ -1,0 +1,11 @@
+framework module SurvayNew {
+  umbrella header "SurvayNew.h"
+
+  export *
+  module * { export * }
+}
+
+module SurvayNew.Swift {
+  header "SurvayNew-Swift.h"
+  requires objc
+}
