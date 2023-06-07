@@ -1,2 +1,25 @@
 # SurveyBoxSdk-ios
 SurveyBoxSdk-ios
+Mobile SDK - iOS
+
+The Survaybox Mobile SDK allows you to collect feedback from your mobile app users. Installed in your app, the SDK will enable you to trigger targeted surveys to better understand your users and collect their opinions about your products.
+
+The SDK is maintained and supported by Survicate - The Customer Experience & Survey Software.
+
+Installation The SDK can be installed in the iOS mobile app using one of the three methods described below.
+
+Swift Package Manager To install Survicate using Swift Package Manager:
+
+Open Xcode and select New Project in the File > New > Project… menu to create a new project for your application.
+
+Choose the App template for your project.
+
+When prompted, choose your app name (for example, SurvicateSPDemo) and use the default options, next select the location to save the project and finally click on the Create button to finish project creation.
+
+Once the project is created, open your application in Xcode and select your project’s Package Dependencies tab
+
+Copy the Survicate SDK Swift package repository URL https://github.com/surveybox-io/SurveyBoxSdk-ios into the search field
+
+Under Dependency Rule, select version according to your preferences
+
+Requirements
