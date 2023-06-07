@@ -72,13 +72,15 @@ To use the `WellcomeVC` class from our framework in your `ViewController`, follo
 
 1. Import the framework at the top of your `ViewController` or where you want to show the Survay file:
 
-```swift
+
 import SurvayNew
 
-      let controller = WellcomeVC.createNew(with: "")
+        func showSurvayBox() {
+        let controller = WellcomeVC.createNew(with: "")
         controller.modalPresentationStyle = .fullScreen
         controller.modalPresentationStyle = .overCurrentContext
         self.present(controller, animated: true, completion: nil)
+    }
 
 
 
