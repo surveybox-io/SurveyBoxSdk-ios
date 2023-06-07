@@ -48,7 +48,7 @@ To use the framework's features, you need to configure the API key. Follow these
 1. Open the `AppDelegate.swift` file.
 2. Locate the `didFinishLaunchingWithOptions` method.
 3. Find the line that configures the API key.
-4. Replace the placeholder `YOUR_API_KEY` with your actual API key.
+4. Replace the placeholder `YOUR_API_KEY` with your actual API key and `your customer email id`.
 5. Save the changes to the `AppDelegate.swift` file.
 6. Build and run the application.
 
