@@ -29,5 +29,6 @@ The SDK supports iOS 13+. Survicate Mobile SDK is distributed in a binary versio
 Using Survaybox Mobile SDK requires an account at [Survaybox](https://surveybox.io/). Sign up for free and find your workspace key in the Access Keys tab.
 
 # Installation
+![image](https://github.com/surveybox-io/SurveyBoxSdk-ios/assets/79449782/3ffe41bf-f7b7-4db4-8b79-fa35f4e5206a)
 
 
