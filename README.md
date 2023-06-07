@@ -38,7 +38,10 @@ Using Survaybox Mobile SDK requires an account at [Survaybox](https://surveybox.
     + Select the **Build Phases** tab.
     + Confirm **_Thunderhead.xcframework_** is located in the **Link Binary With Libraries** section.
     + Confirm **_ThunderheadBundle.bundle_** is located in the **Copy Bundle Resources** section.
-![Uploading Screenshot 2023-06-07 at 3.01.43 PM.png…]()
+
+![Screenshot 2023-06-07 at 3 01 43 PM](https://github.com/surveybox-io/SurveyBoxSdk-ios/assets/79449782/fd184f5b-25ae-4beb-a32b-9a58e1695f55)
+
+
 
 
 
