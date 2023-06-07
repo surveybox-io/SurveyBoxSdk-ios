@@ -29,7 +29,7 @@ The SDK supports iOS 13+. Survicate Mobile SDK is distributed in a binary versio
 Using Survaybox Mobile SDK requires an account at [Survaybox](https://surveybox.io/). Sign up for free and find your workspace key in the Access Keys tab.
 
 # Installation
-1. [Download the latest Thunderhead SDK for iOS](https://github.com/surveybox-io/SurveyBoxSdk-ios) and extract the zip. This is a ~1.3MB file and might take some time to download.
+1. [Download the latest Surveybox SDK for iOS](https://github.com/surveybox-io/SurveyBoxSdk-ios) and extract the zip. This is a ~1.3MB file and might take some time to download.
 2. Open your existing iOS application Xcode project.
 3. Import the `SurvayBox.embeddedframework` into your project.
 4. Confirm the SDK files have been added to your project, as follows:
